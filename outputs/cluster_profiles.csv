@@ -1,0 +1,4 @@
+cluster,customers,share_pct,churn_rate_pct,mean_SeniorCitizen,mean_tenure,mean_MonthlyCharges,mean_TotalCharges,common_gender,common_Partner,common_Dependents,common_PhoneService,common_MultipleLines,common_InternetService,common_OnlineSecurity,common_OnlineBackup,common_DeviceProtection,common_TechSupport,common_StreamingTV,common_StreamingMovies,common_Contract,common_PaperlessBilling,common_PaymentMethod
+0,3188,45.26,44.01,0.196,15.301,67.852,1019.37,Male,No,No,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check
+1,1526,21.67,7.4,0.034,30.547,21.079,665.22,Male,No,No,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check
+2,2329,33.07,15.16,0.2,56.933,89.154,5066.714,Male,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic)

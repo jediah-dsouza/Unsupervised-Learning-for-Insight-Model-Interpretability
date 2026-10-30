@@ -1,0 +1,47 @@
+feature,builtin_importance
+categorical__Contract_Month-to-month,0.3825647
+categorical__OnlineSecurity_No,0.08549824
+categorical__InternetService_Fiber optic,0.07147207
+categorical__TechSupport_No,0.04168859
+categorical__Contract_Two year,0.035202097
+categorical__PaymentMethod_Electronic check,0.026932396
+categorical__Contract_One year,0.023750694
+categorical__StreamingMovies_Yes,0.02276647
+numeric__tenure,0.022610622
+categorical__InternetService_No,0.021150848
+categorical__PaperlessBilling_Yes,0.020140184
+categorical__InternetService_DSL,0.019330211
+categorical__PaperlessBilling_No,0.01705709
+categorical__TechSupport_Yes,0.014156864
+categorical__StreamingTV_Yes,0.013404538
+numeric__MonthlyCharges,0.013128428
+categorical__PhoneService_No,0.011743005
+categorical__OnlineBackup_No,0.011598995
+numeric__TotalCharges,0.011437236
+categorical__StreamingMovies_No,0.010411789
+categorical__MultipleLines_No,0.010390313
+categorical__PhoneService_Yes,0.009941864
+categorical__Dependents_No,0.009745016
+categorical__PaymentMethod_Credit card (automatic),0.009599097
+categorical__gender_Male,0.009177685
+categorical__StreamingTV_No,0.009053824
+categorical__OnlineBackup_Yes,0.008146491
+categorical__SeniorCitizen_0,0.007773189
+categorical__Dependents_Yes,0.00710452
+categorical__PaymentMethod_Mailed check,0.0070593012
+categorical__gender_Female,0.0068654143
+categorical__DeviceProtection_No,0.0064414
+categorical__PaymentMethod_Bank transfer (automatic),0.005971626
+categorical__DeviceProtection_Yes,0.005160525
+categorical__OnlineSecurity_Yes,0.0046788263
+categorical__Partner_No,0.0043820697
+categorical__MultipleLines_Yes,0.002463648
+categorical__Partner_Yes,0.0
+categorical__SeniorCitizen_1,0.0
+categorical__TechSupport_No internet service,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__MultipleLines_No phone service,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__StreamingTV_No internet service,0.0

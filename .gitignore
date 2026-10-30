@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Dataset
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Trained model files
+*.joblib

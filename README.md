@@ -1,6 +1,6 @@
 # Customer Segmentation & Model Interpretability
 
-**Task 8 | Unsupervised Learning, Customer Analytics & Explainable AI**
+** Unsupervised Learning, Customer Analytics & Explainable AI**
 
 A machine learning project that combines customer segmentation with model interpretability to uncover meaningful customer groups and understand the key factors associated with telecommunications customer churn.
 
